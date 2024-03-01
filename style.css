@@ -85,6 +85,9 @@ body{
         margin-top: 15px 0px;
         font-size: 12px;
     }
+    .whatapp a img{
+        width: 35px;
+    }
 
 }
 /* Footer Section Start  */
@@ -97,4 +100,12 @@ body{
     margin-top: 50px;
     
 
+}
+.whatapp{
+    position: fixed;
+    bottom: 60px;
+    right: 20px; 
+}
+.whatapp a img{
+    width: 50px;
 }
