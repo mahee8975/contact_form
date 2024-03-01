@@ -66,6 +66,7 @@ body{
     background: linear-gradient(270deg,#ff994f,#fa6d86);
     cursor: pointer;
     margin-right: 60%;
+    
 }
 @media (max-width:800px){
     .contact-inputs{
@@ -78,6 +79,22 @@ body{
     }
     .contact-left button{
         padding: 10px 20px;
+
     }
+    .design{
+        margin-top: 15px 0px;
+        font-size: 12px;
+    }
+
+}
+/* Footer Section Start  */
+.design{
+    height: 50px;
+    color: #5f4064;
+    background: #eebbc4;
+    text-align: center;
+    line-height: 50px;
+    margin-top: 50px;
+    
 
 }
